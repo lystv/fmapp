@@ -1,5 +1,5 @@
 {
-  "code": "259",
-  "name": "2.5.9",
-  "desc": "* [共通] \n* quickjs内核升级 \n* 备份恢复优化"
+  "code": "263",
+  "name": "2.6.3",
+  "desc": "* [EXO] \n* 升级至1.5.0 \n* [直播] \n* 支持 Xtream Code \n* 修复 epg 判断 \n* 修复 m3u 判断 \n* m3u 支持多组 epg 地址"
 }
