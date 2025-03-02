@@ -1,5 +1,5 @@
 {
-  "code": "276",
-  "name": "2.7.6",
-  "desc": "* [App] \n* 新增hosts配置 \n* 调整proxy配置 \n* 新增headers配置 \n* 修复下一集通知 \n* [EX0] \n* 优化h264，h265播放"
+  "code": "278",
+  "name": "2.7.8",
+  "desc": "* [App] \n* 修复字幕选择 \n* BUG修复 \n* 优化扫描设备 \n* 优化弹幕加载 \n* 支持多条弹幕地址 \n* 新增分类弹窗 \n* 支持后台下载 \n* 支持下载通知 \n* [EXO] \n* 优化 \n* 修复DRM解码 \n* 修复flv没有音轨 \n* [Live] \n* BUG修复 \n* 修复线路名称显示 \n* 支持unix 时间戳回看参数 \n* 移除XC \n* 移除type判断 \n* 支持单个xml epg"
 }
