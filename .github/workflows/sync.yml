@@ -1,0 +1,26 @@
+name: Sync App Branch  
+on:  
+  schedule:  
+    - cron: "*/5 * * * *"  # 每5分钟执行，可按需改定时  
+  workflow_dispatch:  
+jobs:  
+  sync:  
+    runs-on: ubuntu-latest  
+    steps:  
+      - name: Checkout app branch  
+        uses: actions/checkout@v4  
+        with:  
+          ref: app  
+          fetch-depth: 0  
+      - name: Configure Git  
+        run: |  
+          git config user.name "GitHub Actions"  
+          git config user.email "actions@github.com"  
+      - name: Add upstream remote  
+        run: git remote add upstream https://github.com/lystv/fmapp.git  # 源仓库地址  
+      - name: Fetch & Sync  
+        run: |  
+          git fetch upstream app  
+          git checkout app  
+          git reset --hard upstream/app  
+          git push -f origin app  
