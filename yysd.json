@@ -34,15 +34,15 @@
             },
             {
                 "name": "手機-32",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/3d0c82a601269a59dae20c0029e61a437c9f42ea/apk/release/mobile-armeabi_v7a.apk",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/bfc5d0f8d25c68277db83aae8d0bbe2829241831/apk/release/mobile-armeabi_v7a.apk",
                 "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-                "version": "FM-3.8.2"
+                "version": "FM-3.8.3"
             },
             {
                 "name": "電視-32",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/3d0c82a601269a59dae20c0029e61a437c9f42ea/apk/release/leanback-armeabi_v7a.apk",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/bfc5d0f8d25c68277db83aae8d0bbe2829241831/apk/release/leanback-armeabi_v7a.apk",
                 "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-                "version": "FM-3.8.2"
+                "version": "FM-3.8.3"
             }
         ]
     },
@@ -105,27 +105,27 @@
             },
             {
                 "name": "電視-32",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/3d0c82a601269a59dae20c0029e61a437c9f42ea/apk/release/leanback-armeabi_v7a.apk",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/bfc5d0f8d25c68277db83aae8d0bbe2829241831/apk/release/leanback-armeabi_v7a.apk",
                 "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-                "version": "FM-3.8.2"
+                "version": "FM-3.8.3"
             },
             {
                 "name": "電視-64",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/3d0c82a601269a59dae20c0029e61a437c9f42ea/apk/release/leanback-arm64_v8a.apk",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/bfc5d0f8d25c68277db83aae8d0bbe2829241831/apk/release/leanback-arm64_v8a.apk",
                 "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-                "version": "FM-3.8.2"
+                "version": "FM-3.8.3"
             }, 
             {
                 "name": "手機-32",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/3d0c82a601269a59dae20c0029e61a437c9f42ea/apk/release/mobile-armeabi_v7a.apk",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/bfc5d0f8d25c68277db83aae8d0bbe2829241831/apk/release/mobile-armeabi_v7a.apk",
                 "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-                "version": "FM-3.8.2"
+                "version": "FM-3.8.3"
             },
             {
                 "name": "手機-64",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/3d0c82a601269a59dae20c0029e61a437c9f42ea/apk/release/mobile-arm64_v8a.apk",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/bfc5d0f8d25c68277db83aae8d0bbe2829241831/apk/release/mobile-arm64_v8a.apk",
                 "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-                "version": "FM-3.8.2"
+                "version": "FM-3.8.3"
             }
         ]
     },
