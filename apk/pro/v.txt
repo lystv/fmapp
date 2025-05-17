@@ -1,21 +1,11 @@
-3.3.0
+3.3.2
 * [App]
-* 一些优化
-* 支持digest auth
-* 优化ip获取
-* 优化dlna ip获取
-* 修复解析bug
-* 修复302崩溃
-* 修复片尾bug
-* js新增getPort方法
-* 返回按键完全退出App
-* [电视版]
-* 时间显示顺序修改
+* Optimize okhttp
+* Fix bug
+* [Exo]
+* Fix bug
+* [Vod]
+* Fix danamku
+* Fix subtitle
 * [Live]
-* 支持小云
-* [EXO]
-* 升级1.6.1
-* 修复buffer bug
-* [MPV]
-* 升级0.40.0
-* 优化硬解
+* Fix m3u parser
