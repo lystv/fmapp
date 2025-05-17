@@ -36,7 +36,7 @@
                 "name": "手機-32",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/214d87786855201928cfa2b79da12d9a01b22bfd/apk/release/mobile-armeabi_v7a.apk",
                 "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-                "version": "FM-"
+                "version": "FM-3.8.5"
             },
             {
                 "name": "電視-32",
@@ -119,13 +119,13 @@
                 "name": "手機-32",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/214d87786855201928cfa2b79da12d9a01b22bfd/apk/release/mobile-armeabi_v7a.apk",
                 "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-                "version": "FM-"
+                "version": "FM-3.8.5"
             },
             {
                 "name": "手機-64",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/214d87786855201928cfa2b79da12d9a01b22bfd/apk/release/mobile-arm64_v8a.apk",
                 "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-                "version": "FM-"
+                "version": "FM-3.8.5"
             }
         ]
     },
@@ -184,13 +184,13 @@
                 "name": "手機-32",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp//apk/dev/mobile-armeabi_v7a.apk",
                 "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-                "version": "FM-"
+                "version": "FM-0"
             },
             {
                 "name": "手機-64",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp//apk/dev/mobile-arm64_v8a.apk",
                 "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-                "version": "FM-"
+                "version": "FM-0"
             }
         ]
     },
