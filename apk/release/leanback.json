@@ -1,5 +1,5 @@
 {
-  "code": "290",
-  "name": "2.9.0",
-  "desc": "* [App] \n* 一些优化 \n* 支持digest auth \n* 优化ip获取 \n* 优化dlna ip获取 \n* 修复解析bug \n* 修复302崩溃 \n* 修复片尾bug \n* js新增getPort方法 \n* 返回按键完全退出App \n* 时间显示顺序修改 \n* [Live] \n* 支持小云 \n* [EXO] \n* 升级1.6.1 \n* 修复buffer bug"
+  "code": "292",
+  "name": "2.9.2",
+  "desc": "* [App] \n* Optimize okhttp \n* Fix bug \n* [Exo] \n* Fix bug \n* [Vod] \n* Fix danamku \n* Fix subtitle \n* [Live] \n* Fix m3u parser"
 }
