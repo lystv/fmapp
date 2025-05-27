@@ -1,6 +1,8 @@
-3.3.2
+3.3.3
 * [App]
 * Optimize okhttp
+* Fix track name
+* Add prefer aac setting
 * Fix bug
 * [Exo]
 * Fix bug
