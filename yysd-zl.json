@@ -34,7 +34,7 @@
             },
             {
                 "name": "手機-32",
-                "url": "https://raw.githubusercontent.com/lystv/fmapp/8ec91abf5fc52a13a34a23a8314e0e61c0e2a479/apk/release/mobile-armeabi_v7a.apk",
+                "url": "https://raw.githubusercontent.com/lystv/fmapp/a1a368e198e432614377e5499087a9ce1db1155f/apk/release/mobile-armeabi_v7a.apk",
                 "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
                 "version": "FM-4.0.0"
             },
@@ -117,13 +117,13 @@
             }, 
             {
                 "name": "手機-32",
-                "url": "https://raw.githubusercontent.com/lystv/fmapp/8ec91abf5fc52a13a34a23a8314e0e61c0e2a479/apk/release/mobile-armeabi_v7a.apk",
+                "url": "https://raw.githubusercontent.com/lystv/fmapp/a1a368e198e432614377e5499087a9ce1db1155f/apk/release/mobile-armeabi_v7a.apk",
                 "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
                 "version": "FM-4.0.0"
             },
             {
                 "name": "手機-64",
-                "url": "https://raw.githubusercontent.com/lystv/fmapp/8ec91abf5fc52a13a34a23a8314e0e61c0e2a479/apk/release/mobile-arm64_v8a.apk",
+                "url": "https://raw.githubusercontent.com/lystv/fmapp/a1a368e198e432614377e5499087a9ce1db1155f/apk/release/mobile-arm64_v8a.apk",
                 "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
                 "version": "FM-4.0.0"
             }
