@@ -1,9 +1,7 @@
-3.3.3
+3.3.5
 * [App]
 * Optimize okhttp
-* Fix track name
-* Add prefer aac setting
-* Fix bug
+* Add flip for vod
 * [Exo]
 * Fix bug
 * [Vod]
