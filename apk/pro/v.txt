@@ -1,13 +1,6 @@
-3.3.6
+3.4.2
 * [App]
-* Optimize okhttp
-* Add flip for vod
-* support scale video
-* [Exo]
 * Fix bug
-* [Vod]
-* Fix danamku
-* Fix subtitle
-* [Live]
-* Fix m3u parser
-* epg api support seconds
+* Fix trans
+* [EXO]
+* Update media 1.8.0
