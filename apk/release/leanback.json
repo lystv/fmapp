@@ -1,5 +1,5 @@
 {
-  "code": "296",
-  "name": "2.9.6",
-  "desc": "* [App] \n* Optimize okhttp \n* Add flip for vod \n* support scale video \n* [Exo] \n* Fix bug \n* [Vod] \n* Fix danamku \n* Fix subtitle \n* [Live] \n* Fix m3u parser \n* epg api support seconds"
+  "code": "301",
+  "name": "3.0.1",
+  "desc": "* [App] \n* Fix bug \n* Fix trans \n* [EXO] \n* Update media 1.8.0"
 }
