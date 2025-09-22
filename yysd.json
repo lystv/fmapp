@@ -36,7 +36,7 @@
                 "name": "手機-32",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/43ded4e3a1a4bd634806853e581d2382c453904b/apk/release/mobile-armeabi_v7a.apk",
                 "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-                "version": "FM-4.2.3"
+                "version": "FM-"
             },
             {
                 "name": "電視-32",
@@ -119,13 +119,13 @@
                 "name": "手機-32",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/43ded4e3a1a4bd634806853e581d2382c453904b/apk/release/mobile-armeabi_v7a.apk",
                 "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-                "version": "FM-4.2.3"
+                "version": "FM-"
             },
             {
                 "name": "手機-64",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/43ded4e3a1a4bd634806853e581d2382c453904b/apk/release/mobile-arm64_v8a.apk",
                 "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-                "version": "FM-4.2.3"
+                "version": "FM-"
             }
         ]
     },
