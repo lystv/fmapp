@@ -1,5 +1,5 @@
 {
-  "code": "301",
-  "name": "3.0.1",
-  "desc": "* [App] \n* Fix bug \n* Fix trans \n* [EXO] \n* Update media 1.8.0"
+  "code": "307",
+  "name": "3.0.7",
+  "desc": "* [App] \n* 修复AI去广 \n* 新增动态壁纸 \n* 更新icon \n* 新增启动动画 \n* 界面微调 \n* 修复动态壁纸 \n* 修复本地接口 \n* 修复播放界面 \n* 修复搜索页面 \n* 修复弹幕关闭"
 }
