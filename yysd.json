@@ -105,9 +105,9 @@
             },
             {
                 "name": "電視pro-v8a",
-                "url": "3.6.6-pro8a.url/leanback-pro-v8a.apk",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/7f4b093879a0ea1f6d2f9825355a79249d0a5944/apk/pro/leanback-pro-v8a.apk",
                 "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-                "version": "OK-3.6.6-pro8a.v"
+                "version": "OK-3.6.6-pro"
             },
             {
                 "name": "電視-32",
