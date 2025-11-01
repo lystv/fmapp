@@ -22,15 +22,15 @@
             },
             {
                 "name": "手機pro",
-                "url": "https://raw.githubusercontent.com/lystv/fmapp/d3aeb337de481e0411a5c61f304a62c7573facd5/apk/pro/mobile-pro.apk",
+                "url": "https://raw.githubusercontent.com/lystv/fmapp/7f4b093879a0ea1f6d2f9825355a79249d0a5944/apk/pro/mobile-pro.apk",
                 "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-                "version": "OK-3.6.5-pro"
+                "version": "OK-3.6.6-pro"
             },
             {
                 "name": "電視pro",
-                "url": "https://raw.githubusercontent.com/lystv/fmapp/d3aeb337de481e0411a5c61f304a62c7573facd5/apk/pro/leanback-pro.apk",
+                "url": "https://raw.githubusercontent.com/lystv/fmapp/7f4b093879a0ea1f6d2f9825355a79249d0a5944/apk/pro/leanback-pro.apk",
                 "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-                "version": "OK-3.6.5-pro"
+                "version": "OK-3.6.6-pro"
             },
             {
                 "name": "手機-32",
@@ -87,27 +87,27 @@
             },
             {
                 "name": "手機pro",
-                "url": "https://raw.githubusercontent.com/lystv/fmapp/d3aeb337de481e0411a5c61f304a62c7573facd5/apk/pro/mobile-pro.apk",
+                "url": "https://raw.githubusercontent.com/lystv/fmapp/7f4b093879a0ea1f6d2f9825355a79249d0a5944/apk/pro/mobile-pro.apk",
                 "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-                "version": "OK-3.6.5-pro"
+                "version": "OK-3.6.6-pro"
             },
             {
                 "name": "手機pro-emu",
-                "url": "https://raw.githubusercontent.com/lystv/fmapp/d3aeb337de481e0411a5c61f304a62c7573facd5/apk/pro/mobile-emu-pro.apk",
+                "url": "https://raw.githubusercontent.com/lystv/fmapp/7f4b093879a0ea1f6d2f9825355a79249d0a5944/apk/pro/mobile-emu-pro.apk",
                 "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-                "version": "OK-3.6.5-pro"
+                "version": "OK-3.6.6-pro"
             },
             {
                 "name": "電視pro",
-                "url": "https://raw.githubusercontent.com/lystv/fmapp/d3aeb337de481e0411a5c61f304a62c7573facd5/apk/pro/leanback-pro.apk",
+                "url": "https://raw.githubusercontent.com/lystv/fmapp/7f4b093879a0ea1f6d2f9825355a79249d0a5944/apk/pro/leanback-pro.apk",
                 "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-                "version": "OK-3.6.5-pro"
+                "version": "OK-3.6.6-pro"
             },
             {
                 "name": "電視pro-v8a",
-                "url": "ok-pro-tv-pro.url/leanback-pro-v8a.apk",
+                "url": "3.6.6-pro8a.url/leanback-pro-v8a.apk",
                 "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-                "version": "OK-ok-pro-tv-pro.v"
+                "version": "OK-3.6.6-pro8a.v"
             },
             {
                 "name": "電視-32",
