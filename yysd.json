@@ -22,15 +22,15 @@
             },
             {
                 "name": "手機pro",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/59591443f48c306c202e11b9e76441b1d92e9d7c/apk/pro/mobile-pro.apk",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/b03034637be79788ebb3f2561713ec379e77b372/apk/pro/mobile-pro.apk",
                 "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-                "version": "OK-3.6.7-pro"
+                "version": "OK-3.6.9-pro"
             },
             {
                 "name": "電視pro",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/59591443f48c306c202e11b9e76441b1d92e9d7c/apk/pro/leanback-pro.apk",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/b03034637be79788ebb3f2561713ec379e77b372/apk/pro/leanback-pro.apk",
                 "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-                "version": "OK-3.6.7-pro"
+                "version": "OK-3.6.9-pro"
             },
             {
                 "name": "手機-32",
@@ -87,27 +87,27 @@
             },
             {
                 "name": "手機pro",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/59591443f48c306c202e11b9e76441b1d92e9d7c/apk/pro/mobile-pro.apk",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/b03034637be79788ebb3f2561713ec379e77b372/apk/pro/mobile-pro.apk",
                 "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-                "version": "OK-3.6.7-pro"
+                "version": "OK-3.6.9-pro"
             },
             {
                 "name": "手機pro-emu",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/59591443f48c306c202e11b9e76441b1d92e9d7c/apk/pro/mobile-emu-pro.apk",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/b03034637be79788ebb3f2561713ec379e77b372/apk/pro/mobile-emu-pro.apk",
                 "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-                "version": "OK-3.6.7-pro"
+                "version": "OK-3.6.9-pro"
             },
             {
                 "name": "電視pro",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/59591443f48c306c202e11b9e76441b1d92e9d7c/apk/pro/leanback-pro.apk",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/b03034637be79788ebb3f2561713ec379e77b372/apk/pro/leanback-pro.apk",
                 "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-                "version": "OK-3.6.7-pro"
+                "version": "OK-3.6.9-pro"
             },
             {
                 "name": "電視pro-v8a",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/59591443f48c306c202e11b9e76441b1d92e9d7c/apk/pro/leanback-pro-v8a.apk",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/b03034637be79788ebb3f2561713ec379e77b372/apk/pro/leanback-pro-v8a.apk",
                 "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-                "version": "OK-3.6.7-pro"
+                "version": "OK-3.6.9-pro"
             },
             {
                 "name": "電視-32",
