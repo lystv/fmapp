@@ -1,4 +1,4 @@
-刷新影视各版本commit号  时间 >>20251117-01:15:42
+刷新影视各版本commit号  时间 >>20251117-02:26:29
 OK-手机正式版:1f35d2669ab1ff620cdbed050cc81db00997202b:3.3.6
 OK-手机内测版:46fe8f89934de86af3f4a76723f63ee3cbd4254e:2.8.5
 OK-5.1+电视正式版:1f35d2669ab1ff620cdbed050cc81db00997202b:3.3.6
@@ -13,9 +13,9 @@ OK-手机pro 模拟器版:77e5cfd7f6aac79e1e899d31a301a95a316a61e1:3.7.6-pro
 OK-电视pro版:77e5cfd7f6aac79e1e899d31a301a95a316a61e1:3.7.6-pro
 OK-电视pro 64位版:77e5cfd7f6aac79e1e899d31a301a95a316a61e1:3.7.6-pro
 
-FM-手机正式版:5b5a323eb76395afec98e5e0719eb7d546573f24:4.8.6
+FM-手机正式版:21ca54fad5ad9bbbe002ddb8b2de162070fc17ba:4.8.7
 FM-手机内测版::
-FM-5.1+电视正式版:5b5a323eb76395afec98e5e0719eb7d546573f24:4.8.6
+FM-5.1+电视正式版:21ca54fad5ad9bbbe002ddb8b2de162070fc17ba:4.8.7
 FM-5.1+电视内测版::
 肥羊Allinone v7-32位版:bcf44fe6472569df1b026f418a12d1677d3b0a32:pg20241212-2119
 肥羊Allinone v8-64位版:bcf44fe6472569df1b026f418a12d1677d3b0a32:pg20241212-2119
