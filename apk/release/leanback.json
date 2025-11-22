@@ -1,5 +1,5 @@
 {
-  "code": "337",
-  "name": "3.3.7",
-  "desc": "* BUG修复"
+  "code": "338",
+  "name": "3.3.8",
+  "desc": "* [App] \n* BUG修复 \n* 新增弹幕繁体化 \n* 新增直播繁体化 \n* 优化直播節目xml解析 \n* 更新rtmp组件 \n* 优化okhttp请求"
 }
