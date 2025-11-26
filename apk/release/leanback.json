@@ -1,5 +1,5 @@
 {
-  "code": "339",
-  "name": "3.3.9",
-  "desc": "* [App] \n* BUG修复 \n* 优化okhttp请求 \n* 修复崩溃 \n* 修复荐片退出清除缓存 \n* 修复倒序BUG"
+  "code": "350",
+  "name": "3.5.0",
+  "desc": "* [App] \n* BUG修复 \n* 修复 pgs 字幕显示 \n* 修复点播 xml 解析 \n* 修复live m3u 判断"
 }
