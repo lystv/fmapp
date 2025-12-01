@@ -1,5 +1,5 @@
 {
-  "code": "350",
-  "name": "3.5.0",
-  "desc": "* [App] \n* BUG修复 \n* 修复 pgs 字幕显示 \n* 修复点播 xml 解析 \n* 修复live m3u 判断"
+  "code": "351",
+  "name": "3.5.1",
+  "desc": "* [App] \n* Fix bug \n* Optimize header parse \n* Support drm licence header \n* Add drm forceKey param"
 }
