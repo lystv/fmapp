@@ -1,7 +1,7 @@
-3.8.0
+3.8.2
 * [App]
-* BUG修复
-* 修复 pgs 字幕显示
-* 修复点播 xml 解析
-* 修复live m3u 判断
-* 新增美剧韩剧dm搜索
+* Fix bug
+* Optimize header parse
+* Support drm licence header
+* Add drm forceKey param
+* Add danmaku random color
