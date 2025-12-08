@@ -1,7 +1,6 @@
-3.8.2
+3.8.3
 * [App]
-* Fix bug
-* Optimize header parse
-* Support drm licence header
-* Add drm forceKey param
-* Add danmaku random color
+* BUG修复
+* 优化Live播放完成检查
+* 预加载修改为懒加载
+* 一些UI优化
