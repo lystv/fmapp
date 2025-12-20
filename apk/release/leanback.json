@@ -1,5 +1,5 @@
 {
-  "code": "355",
-  "name": "3.5.5",
-  "desc": "* [App] \n* BUG修复 \n* 一些优化"
+  "code": "356",
+  "name": "3.5.6",
+  "desc": "* [App] \n* BUG修复 \n* 一些优化 \n* 修复多jar"
 }
