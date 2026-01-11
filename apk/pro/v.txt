@@ -1,9 +1,10 @@
-3.8.9
+3.9.1
 * [App]
-* 优化弹幕加载
+* 修复js初始化ext
+* 优化重播功能
+* 优化刷新功能
+* 新增播放控制api
+* playerContent支持artwork
 
-* [Leanback]
-* 本地支持Emoji 15.0
-
-* [Mpv]
-* 更新至0.41.0
+* 修复无播放记录BUG
+* 修复dm搜索
