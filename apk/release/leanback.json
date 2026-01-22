@@ -1,5 +1,5 @@
 {
-  "code": "360",
-  "name": "3.6.0",
-  "desc": "* [App] \n* 修复js初始化ext \n* 优化重播功能 \n* 优化刷新功能 \n* 新增播放控制api \n* playerContent支持artwork \n* 修复无播放记录BUG"
+  "code": "362",
+  "name": "3.6.2",
+  "desc": "* [App] \n* strings更新 \n* 更新Youtube组件 \n* 修复某些输入框崩溃BUG"
 }
